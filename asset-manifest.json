@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jayasankar_santhosh/static/css/main.a1596d8a.css",
+    "main.js": "/jayasankar_santhosh/static/js/main.62a8e963.js",
+    "static/js/453.1407b060.chunk.js": "/jayasankar_santhosh/static/js/453.1407b060.chunk.js",
+    "index.html": "/jayasankar_santhosh/index.html",
+    "main.a1596d8a.css.map": "/jayasankar_santhosh/static/css/main.a1596d8a.css.map",
+    "main.62a8e963.js.map": "/jayasankar_santhosh/static/js/main.62a8e963.js.map",
+    "453.1407b060.chunk.js.map": "/jayasankar_santhosh/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1596d8a.css",
+    "static/js/main.62a8e963.js"
+  ]
+}
