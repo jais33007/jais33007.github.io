@@ -1,0 +1,27 @@
+/* Footer.css */
+.footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  font-size: 0.9rem;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin: 5px 0;
+}
+
+.footer-link {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
