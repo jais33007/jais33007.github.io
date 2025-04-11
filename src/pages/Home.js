@@ -48,7 +48,7 @@ function Home() {
                   </a>
                   &nbsp;at DFKI and&nbsp;
                   <a
-                    href="https://www.rptu.de/en/research/psybernetics-lab"
+                    href="https://www.psyberlab.de/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
