@@ -54,7 +54,7 @@ function Home() {
                   >
                     <strong>Psybernetics Lab</strong>
                   </a>
-                  &nbsp;at RPTU.
+                  &nbsp;at RPTU Kaiserslautern-Landau.
                 <br />
                 <br />
                 My research interests include understanding the effects of adaptive systems on user outcomes, with the goal of developing scalable, trustworthy, effective, and personalized technologies that enhance experiences across diverse domains.
