@@ -18,7 +18,7 @@ function Home() {
                 <a href="https://www.linkedin.com/in/jayasankar-santhosh-045194172/" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-linkedin"></i>
                 </a>
-                <a href="https://scholar.google.com/citations?user=your-profile" target="_blank" rel="noopener noreferrer">
+                <a href="https://scholar.google.com/citations?user=DSVFTJcAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
                   <i className="fas fa-graduation-cap"></i>
                 </a>
                 <a href="https://github.com/jais33007" target="_blank" rel="noopener noreferrer">
