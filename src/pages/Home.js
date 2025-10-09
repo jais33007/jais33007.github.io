@@ -11,7 +11,7 @@ function Home() {
             {/* Profile Photo */}
             <div className="about-photo">
               <img src="/assets/profile.png" alt="Profile" />
-              <h3>AI and Machine Learning Researcher</h3>
+              <h3>PostDoc Researcher in Human-AI Collaboration</h3>
 
               {/* Social Media Links */}
               <div className="social-links">
@@ -33,12 +33,13 @@ function Home() {
             <div className="about-text">
               <h1>Jayasankar Santhosh</h1>
               
-              <h3>German Research Center for Artificial Intelligence (DFKI) | SDS Dept | IQL Lab</h3>
+              <h3>PostDoc Researcher at Chair of Artificial Intelligence | Zeppelin University | Friedrichshafen</h3>
               <p className="bio">
-                I am a passionate researcher specializing in <strong>Machine Learning</strong>, <strong>Multimodal Sensor Analytics</strong>, and <strong>Generative AI (GenAI)</strong> to enhance learning experiences.
-                Experienced in designing <strong>experimental interfaces</strong>, <strong>real-time data pipelines</strong>, and <strong>advanced models</strong> for eye-tracking and adaptive systems.
-                Expertise in <strong>Educational Data Mining</strong>, <strong>Affective Computing</strong>, <strong>Human-Computer Interaction</strong>, <strong>Real-Time Data Processing</strong>, and <strong>Designing adaptive learning interfaces</strong>.
-                Member of&nbsp;
+                I am PostDoc researcher specializing in <strong>Machine Learning</strong>, <strong>Human-Compuetr Interaction</strong> <strong>Multimodal Sensor Analytics</strong>, and <strong>Generative AI (GenAI)</strong> to enhance human-AI collaboration.
+                Experienced in designing <strong>experimental interfaces</strong>, <strong>real-time data pipelines</strong>, and <strong>advanced models</strong> for multimodal adaptive systems.
+                Expertise in <strong>Educational Data Mining</strong>, <strong>Affective Computing</strong>, <strong>Human-Computer Interaction</strong>, <strong>Real-Time Data Processing</strong>, and <strong>Designing adaptive interfaces</strong>.
+                Part of Endowed Chair of Artificial Intelligence in Zeppelin University focusing on exploring how humans and AI can collaborate most effectively and contributing to the conceptual and methodological implementation of Chairs's research agenda.
+                {/* Member of&nbsp;
                   <a
                     href="https://www.dfki.de/web/anwendungen-industrie/living-labs/immersive-quantified-learning-lab"
                     target="_blank"
@@ -56,8 +57,8 @@ function Home() {
                   </a>
                   &nbsp;at RPTU Kaiserslautern-Landau.
                 <br />
-                <br />
-                My research interests include understanding the effects of adaptive systems on user outcomes, with the goal of developing scalable, trustworthy, effective, and personalized technologies that enhance experiences across diverse domains.
+                <br /> */}
+                My research interests include understanding the effects of real-time adaptive systems on user outcomes, with the goal of developing scalable, trustworthy, effective, and personalized technologies that enhance experiences across diverse domains.
                 </p>
             </div>
           </div>
@@ -71,8 +72,12 @@ function Home() {
           <h2>Work Experience</h2>
           <ul className="experience-list">
             <li className="experience-item">
+              <h3>PostDoc Research Fellow </h3>
+              <span className="company-year">Zeppelin University Friedrichshafen | Present</span>
+            </li>
+            <li className="experience-item">
               <h3>Research Scientist (PhD)</h3>
-              <span className="company-year">DFKI Kaiserslautern | 2019 - Present</span>
+              <span className="company-year">DFKI Kaiserslautern | 2019 - 2025</span>
             </li>
             <li className="experience-item">
               <h3>University Teaching Assistant</h3>
@@ -233,4 +238,3 @@ function Home() {
 }
 
 export default Home;
-
