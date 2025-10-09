@@ -11,7 +11,7 @@ function Contact() {
         </p>
         <ul>
           <li>
-            <strong>Official Email:</strong> <a href="mailto:jayasankar.santhosh@dfki.de">jayasankar.santhosh@dfki.de</a>
+            <strong>Official Email:</strong> <a href="mailto:jayasankar.santhosh@zu.de">jayasankar.santhosh@zu.de</a>
           </li>
           <li>
             <strong>Personal Email:</strong> <a href="mailto:jais33007@gmail.com">jais33007@gmail.com</a>
