@@ -35,7 +35,7 @@ function Home() {
               
               <h3>PostDoc Researcher at Chair of Artificial Intelligence | Zeppelin University | Friedrichshafen</h3>
               <p className="bio">
-                I am a PostDoc researcher specializing in <strong>Machine Learning</strong>, <strong>Human-Computer Interaction</strong> <strong>Multimodal Sensor Analytics</strong>, and <strong>Generative AI (GenAI)</strong> to enhance human-AI collaboration.
+                I am a PostDoc researcher specializing in <strong>Machine Learning</strong>, <strong>Human-Computer Interaction</strong>, <strong>Multimodal Sensor Analytics</strong>, and <strong>Generative AI (GenAI)</strong> to enhance human-AI collaboration.
                 Experienced in designing <strong>experimental interfaces</strong>, <strong>real-time data pipelines</strong>, and <strong>advanced models</strong> for multimodal adaptive systems.
                 Expertise in <strong>Educational Data Mining</strong>, <strong>Affective Computing</strong>, <strong>Human-Computer Interaction</strong>, <strong>Real-Time Data Processing</strong>, and <strong>Designing adaptive interfaces</strong>.
                 Part of <strong>Endowed Chair of Artificial Intelligence</strong> in <strong>Zeppelin University</strong> focusing on exploring how humans and AI can collaborate most effectively and contributing to the conceptual and methodological implementation of Chairs's research agenda.
