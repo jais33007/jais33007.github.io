@@ -155,8 +155,11 @@ function Publications() {
             </li>
           </ol>
           <h3>Doctoral Dissertation</h3>
-          <ol>Jayasankar Santhosh. (2025). "Deep Learning and Sensor-Driven Learning Analytics and Augmentation." 
+          <ol>
+            <li>
+            Jayasankar Santhosh. (2025). "Deep Learning and Sensor-Driven Learning Analytics and Augmentation." 
             Doctoral dissertation, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau.
+            </li>
           </ol>
         </div>
       </div>
