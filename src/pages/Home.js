@@ -101,8 +101,8 @@ function Home() {
           <h2>Education</h2>
           <ul className="education-list">
             <li className="education-item">
-              <h3>PhD in AI-based Learning-Analytics (Submitted)</h3>
-              <span className="institution-year">RPTU Kaiserslautern-Landau | 2020 - Present</span>
+              <h3>PhD in AI-based Learning-Analytics</h3>
+              <span className="institution-year">RPTU Kaiserslautern-Landau | 2020 - 2025</span>
             </li>
             <li className="education-item">
               <h3>Master's in Computer Science</h3>

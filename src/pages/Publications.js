@@ -71,11 +71,20 @@ function Publications() {
           {/* Journal Papers */}
           <h3>Journal Papers</h3>
           <ol>
+            <li>Jayasankar Santhosh and Mateusz Dolata. 
+              "AI as an Active Teammate for Synchronous Group Dynamics: A Systematic Survey of Sensing, Analysis, and Intervention Strategies." 
+              ACM Computing Surveys (In Review).
+              </li>
+            <li>
+              Ko Watanabe, Gitesh Gund, Jayasankar Santhosh, Haruka Sakagami, Yuki Matsuda
+              and Andreas Dengel. "EyeUnderstand: Dashboard for Gaze and Deep-Learning Driven 
+              Comprehension Estimation in Online Lectures". <em>IEEE Access</em>, pp. 102220 - 102233, 2025.      
+            </li>    
           <li>
               Ankur Bhatt, Ko Watanabe, Jayasankar Santhosh, Andreas Dengel, and Shoya
               Ishimaru. "ABCDE: Appearance-Based Confidence Detection by Evaluating Gaze
               Behavior Using Deep Learning". <em>International Journal of Activity and Behavior
-              Computing, IJABC (2025)</em> , 2025, to appear.
+              Computing, IJABC (2025)</em> , 2025.
             </li>
             <li>
               Jayasankar Santhosh, Andreas Dengel, and Shoya Ishimaru. “Gaze-Driven Adaptive
@@ -144,6 +153,10 @@ function Publications() {
               of the 1st international interdisciplinary Symposium on Reading
               Experience and Analysis of Documents (READ ’18)</em>, 2018.
             </li>
+          </ol>
+          <h3>Doctoral Dissertation</h3>
+          <ol>Jayasankar Santhosh. (2025). "Deep Learning and Sensor-Driven Learning Analytics and Augmentation." 
+            Doctoral dissertation, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau.
           </ol>
         </div>
       </div>
